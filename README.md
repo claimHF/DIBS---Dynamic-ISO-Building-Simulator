@@ -9,6 +9,7 @@ Python packages you need to use DIBS:
 - [Numpy](https://pypi.org/project/numpy/)
 - [Namedlist](https://pypi.org/project/namedlist/)
 - [Geopy](https://pypi.org/project/geopy/)
+- [Openpyxl](https://pypi.org/project/openpyxl/)
 
 ## Further information
 
